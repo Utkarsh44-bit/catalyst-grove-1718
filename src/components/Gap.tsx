@@ -54,7 +54,7 @@ const Gap: React.FC<GapProps> = ({ className }) => {
     },
     {
       title: "Limited Ecosystem",
-      description: "Total number of startups in Lithuania is stagnant for more than 5 years ~ 800"
+      description: "Total number of startups in India is stagnant for more than 5 years ~ 152K"
     },
     {
       title: "Funding Inequality",
@@ -95,7 +95,7 @@ const Gap: React.FC<GapProps> = ({ className }) => {
             <div className="relative">
               <div className="w-full h-[500px] overflow-hidden">
                 <img 
-                  src="/lovable-uploads/dabbf929-5dd0-4794-a011-fe43bf4b3418.png" 
+                  src="/lovable-uploads/bg contact.png" 
                   alt="Beautiful orangery with palm trees and plants" 
                   className="w-full h-full object-cover"
                 />
